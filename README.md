@@ -1,4 +1,4 @@
-# DollarGame
+# The Dollar Game
 
 This is an implementation of The Dollar Game as presented on the channel Numberphile by Dr Holly Krieger and Brady Haran
 
